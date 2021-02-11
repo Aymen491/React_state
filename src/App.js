@@ -14,7 +14,7 @@ class profileS extends Component {
   state = {
     Person: {
       fullName: "BELGUESMI Aymen",
-      bio: "A Full-Stack JS student",
+      bio: "Full-Stack JS student",
       imgSrc: "imgP.jpg",
       profession: "Student"
     },
